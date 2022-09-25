@@ -1,0 +1,12 @@
+{
+    "data":{
+        "message":{
+            "name":"New Moon",
+            "symbol":"🌑",
+            "description":"The Moon is new and full of energy."
+            }
+        },
+    "meta":{
+        "date":"Sun Sep 25 2022 16:49:29 GMT+0000 (Coordinated Universal Time)"
+    }
+}
